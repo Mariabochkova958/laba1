@@ -6,6 +6,7 @@ body {
 }
 h1 {
     color: #630006;
+    color: #8B0000;
     font-size: 25px;
     margin-bottom: 10px;
 }
@@ -25,6 +26,7 @@ p {
 
 ul, ol {
     background: #d8c8b8;
+    background: #dadada;
     padding: 15px 25px;
     border-radius: 5px;
     margin: 10px 0;
@@ -63,6 +65,7 @@ a {
     background: #ffffff;
     padding: 20px;
     border-radius: 10px;
+    border-radius: 10 px;
     margin-left: 10px;
 }
 .profile-photo {
@@ -176,3 +179,4 @@ a {
     border-radius: 10px;
     border: 2px solid #630006;
 }
+
